@@ -17,3 +17,13 @@
     color: #0d27e2;
     margin-top: 10px;
 }
+
+.btn {
+    width: 200px;
+    height: 70px;
+    font-size: 22px;
+    background-color: #0048ff;
+    color: white;
+    margin: 50px auto;
+    display: block;
+}
