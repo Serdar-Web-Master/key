@@ -27,3 +27,8 @@
     margin: 50px auto;
     display: block;
 }
+
+.vpns__box {
+    display: flex;
+    justify-content: space-around;
+}
