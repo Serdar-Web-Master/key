@@ -13,10 +13,10 @@
 }
 
 .shapka {
-    font-size: 30px;
+    font-size: 45px;
     text-align: center;
     color: #0d27e2;
-    margin-top: 10px;
+    margin-top: 50px;
 }
 
 .btn {
@@ -32,18 +32,20 @@
 .vpns__box {
     display: flex;
     justify-content: space-around;
-    margin-left: 70px;
+    /* margin-left: 70px; */
 }
 
 .vpn {
-    width: 50%;
+    background-color: red;
+    width: 100px;
+    height: 100px;
     display: flex;
     justify-content: center;
     margin-top: 50px;
 }
 
 .vpn__img {
-    width: 50%;
+    width: 100%;
     text-align: center;
     /* margin-top: 22%; */
 }
